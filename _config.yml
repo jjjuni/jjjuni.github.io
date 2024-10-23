@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Study Log
-    url:               /Study Log/
+    url:               /studylog/
     # submenu:
     #   - title:         소프트웨어공학
 
