@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Study Log
     url:               /Study Log/
-    submenu:
-      - title:         소프트웨어공학
+    # submenu:
+    #   - title:         소프트웨어공학
 
   - title:             Example
     url:               /example/
